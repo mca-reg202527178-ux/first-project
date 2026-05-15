@@ -1,1 +1,1 @@
-Hello This is GitHub Web Ui
+THIS IS GITHUB PROJECT
